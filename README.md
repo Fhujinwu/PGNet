@@ -5,7 +5,7 @@ This is an official implementation of PGNet in our Remote Sensing paper "
 PGNet: Positioning Guidance Network for Semantic Segmentation of Very-High-Resolution Remote Sensing Images</a>"
 
 
-##Note
+## Note
 Our code is based on the <a href="https://github.com/Junjue-Wang/FactSeg">
 FactSeg</a> implementation.
 
