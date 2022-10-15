@@ -1,10 +1,10 @@
 <h2 align="center">PGNet: Positioning Guidance Network for Semantic Segmentation of Very-High-Resolution Remote Sensing Images</h2>
 
 <div align="center">
-  <img src="https://github.com/Fhujinwu/PGNet/PGNet.png"><br><br>
+  <img src="https://github.com/Fhujinwu/PGNet/blob/main/PGNet.png"><br><br>
 </div>
 <div align="center">
-  <img src="https://github.com/Fhujinwu/PGNet/experience.png"><br><br>
+  <img src="https://github.com/Fhujinwu/PGNet/blob/main/experience.png"><br><br>
 </div>
 
 This is an official implementation of PGNet in our Remote Sensing paper "
