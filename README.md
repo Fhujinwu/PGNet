@@ -17,7 +17,7 @@ Our code is based on the <a href="https://github.com/Junjue-Wang/FactSeg">
 FactSeg</a> implementation.
 
 ## Citation
-If you use PGNet in your research, please cite our coming Remote Sensing paper.
+If you use PGNet in your research, please cite our Remote Sensing paper.
 ```text
 @article{liu2022pgnet,
   title={PGNet: Positioning Guidance Network for Semantic Segmentation of Very-High-Resolution Remote Sensing Images},
