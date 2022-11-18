@@ -1,4 +1,5 @@
 <h2 align="center">PGNet: Positioning Guidance Network for Semantic Segmentation of Very-High-Resolution Remote Sensing Images</h2>
+<h4 align="right">by <a href="https://faculty.cqupt.edu.cn/liubo1/zh_CN/index.htm">Bo Liu<sup>+</sup></a>, <a href="https://fhujinwu.github.io/">Jinwu Hu<sup>+</sup></a>, <a href="http://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm">Xiuli Bi*</a>, <a href="https://faculty.cqupt.edu.cn/liws/zh_CN/index.htm">Weisheng Li</a>, <a href="https://see.xidian.edu.cn/faculty/xbgao/">Xinbo Gao</a></h4>
 
 <div align="center">
   <img src="https://github.com/Fhujinwu/PGNet/blob/main/PGNet.png"><br><br>
